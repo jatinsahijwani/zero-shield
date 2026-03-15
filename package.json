@@ -1,10 +1,10 @@
 {
-  "name": "zk-base-sdk",
+  "name": "zero-shield",
   "version": "1.0.0",
   "description": "A zero-knowledge proof SDK for compiling Circom circuits and deploying Solidity verifiers to Base.",
   "main": "./bin/index.js",
   "bin": {
-    "zk-base-sdk": "./bin/cli.js"
+    "zero-shield": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
